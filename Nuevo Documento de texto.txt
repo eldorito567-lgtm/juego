@@ -1,2 +1,3 @@
-print("hello Word");
-print("How are you");
+versión 1 creacion
+versión 2 desarrollo
+versión 3 corregida
